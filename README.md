@@ -29,7 +29,9 @@ LedgerX follows a modular monolith architecture built with Spring Boot.
 
 The application separates responsibilities into controllers, services, repositories, entities, DTOs, security components, events, and configuration.
 
-The architecture diagram is provided below.
+### System Architecture
+
+![LedgerX System Architecture](images/LedgerX-Architecture.png)
 
 ## Core Transaction Flow
 
